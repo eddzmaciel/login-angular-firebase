@@ -1,4 +1,4 @@
-# LoginApp
+# Login Angular Application with Firebase
 
 
 
